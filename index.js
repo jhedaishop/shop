@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Voxo Studios","Get Started With /help","Your Discord Developement Buddy","voxo01.github.io/bot","Use Code VOXOV30R"];
+const statusMessages = ["Jhedai Shop","Submit an Order","Customer Feedback","shop now!",".gg/jhedai"];
 
 
 let currentIndex = 0;
