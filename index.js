@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jhedai Shop","Submit an Order","Customer Feedback","shop now!",".gg/jhedai"];
+const statusMessages = ["Jhedai's Helper"];
 
 
 let currentIndex = 0;
